@@ -1,4 +1,4 @@
-<p align="center"> <img src="src/images/Readme/Header_MujerSegura.png" width="1000"> </p>
+<p align="center"> <img src="src/images/Readme/Header_MujerSegura.jpg" width="1000"> </p>
 
 # Mujer Segura
 
