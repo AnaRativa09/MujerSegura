@@ -28,11 +28,14 @@
 .logo-mujer-segura {
     width: 70%;
     height: auto;
+    max-width: 500px;
 }
+
 .image-mujeres-seguras {
     position: fixed;
     bottom: 0;
     width: 80%;
+    max-width: 400px;
     height: auto;
 }
 
