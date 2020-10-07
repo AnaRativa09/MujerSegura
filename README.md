@@ -64,4 +64,4 @@ Los colores de nuestro proyecto representan la tranquilidad y el control de la s
 ## 7. Bibliografía
 - Palacios, A. (2018). La caminata como modo de transporte para las mujeres en 11 ciudades de América Latina. Transporte y Desarrollo En América Latina, 1(2), 47–64. Retrieved from [scioteca.caf.com](https://scioteca.caf.com/)
 - Levy, C. (2013). Travel choice reframed: “deep distribution” and gender in urban transport. Environment and Urbanization, 25(1), 47–63. https://doi.org/10.1177/0956247813477810
-- Levy, C. (2016). Routes to the just city: towards gender equality in transport planning. In C. O. N. Moser (Ed.), Gender, Asset Accumulation and Just Cities (pp. 135–149). London, United Kingdom: Routledge.
+- Levy, C. (2016). Routes to the just city: towards gender equality in transport planning. In C. O. N. Moser (Ed.), Gender, Asset Accumulation and Just Cities (pp. 135–149). London, United Kingdom: Routledge.</>
